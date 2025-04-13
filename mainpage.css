@@ -1,0 +1,201 @@
+*{
+    margin: 0px;
+}
+#navbar{
+    position: fixed;
+    width: 98%;
+    height: 6.8%;
+    background-color: black;  
+    display: flex;
+    justify-content: space-between;
+    padding-left: 15px;
+    padding-right: 15px;
+    align-items: center;
+    li{
+        font-size: 30px;
+        list-style: none;
+        display: inline-block;
+        margin-left: 100px;
+        a{
+            color: white;
+        }
+        a:hover{
+            color: aqua;
+        }
+       
+    }
+}
+    #title{
+        color: aqua;
+        font-size: 38px;
+        font-family: Arial, Helvetica, sans-serif;
+        animation: destitle 1s linear  infinite;
+    }
+    button{
+        background-color: aqua;
+        color: black;
+        width: 100px;
+        height: 40px;
+        font-weight: bold;
+        border-radius: 40px;
+        font-size: 15px;
+    }
+    button:hover{
+        background-color: white;
+    }
+    body{
+        background-image: linear-gradient(180deg,black 10%,rgb(57, 9, 68) 75%, violet);
+    }
+    @keyframes destitle {
+        from{
+            color: aqua;
+        }
+        to{
+            color: chartreuse;
+        }
+        
+    }
+    td{
+        background-image: url(Designer.jpeg);
+    }
+    .pic1{
+        width: 350px;
+        height: 300px;
+        margin-top: 90px;
+        margin-left: 10px;
+        margin-right: 20px;
+        margin-bottom: 0%;
+        background-image: url(screenshot_212511.png);
+        background-size: contain;
+        background-repeat: no-repeat;
+    }
+    .pic2{
+        width: 350px;
+        height: 300px;
+        margin-top: 90px;
+        margin-left: 10px;
+        margin-right: 20px;
+        margin-bottom: 0%;
+        background-image: url(screenshot_214756.png);
+        background-size: contain;
+        background-repeat: no-repeat;
+    } .pic3{
+        width: 350px;
+        height: 300px;
+        margin-top: 90px;
+        margin-left: 10px;
+        margin-right: 20px;
+        margin-bottom: 0%;
+        background-image: url(screenshot_212332.png);
+        background-size: contain;
+        background-repeat: no-repeat;
+    } .pic4{
+        width: 350px;
+        height: 300px;
+        margin-top: 90px;
+        margin-left: 10px;
+        margin-right: 10px;
+        margin-bottom: 0%;
+        background-image: url(screenshot_212449.png);
+        background-size: contain;
+        background-repeat: no-repeat;
+    }
+
+    #set1{
+        display: flex;
+    }
+.pic5 {
+    width: 350px;
+    height: 300px;
+    margin-top: -4%;
+    margin-left: 15px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    background-image: url(screenshot_212637.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.pic51 {
+    width: 350px;
+    height: 300px;
+    margin-top: -4%;
+    margin-left: 15px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    background-image: url(screenshot_214747.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.pic52 {
+    width: 350px;
+    height: 300px;
+    margin-top: -4%;
+    margin-left: 15px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    background-image: url(screenshot_213658.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.pic53 {
+    width: 350px;
+    height: 300px;
+    margin-top: -4%;
+    margin-left: 15px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    background-image: url(screenshot_212637.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+#set2{
+    display: flex;
+}
+.pic6 {
+    width: 350px;
+    height: 300px;
+    margin-top: -4%;
+    margin-left: 15px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    background-image: url(screenshot_212235.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.pic61 {
+    width: 350px;
+    height: 300px;
+    margin-top: -4%;
+    margin-left: 15px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    background-image: url(screenshot_212031.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.pic62 {
+    width: 350px;
+    height: 300px;
+    margin-top: -4%;
+    margin-left: 15px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    background-image: url(Designer5.jpeg);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.pic63 {
+    width: 350px;
+    height: 300px;
+    margin-top: -4%;
+    margin-left: 15px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    background-image: url(screenshot_131336.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+#set3{
+    display: flex;
+}
+
